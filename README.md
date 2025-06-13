@@ -50,3 +50,7 @@ The app will be available at `http://localhost:3000`.
 ## License
 
 This project is licensed under the MIT License.
+
+## Images 
+
+![Image-1 ](https://github.com/user-attachments/assets/583a3c56-e0a5-48dd-a998-3c87f06a5098)

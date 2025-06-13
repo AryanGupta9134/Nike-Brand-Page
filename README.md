@@ -1,12 +1,52 @@
-# React + Vite
+# Brand Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based project for creating and showcasing a brand landing page.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive design
+- Modular React components
+- Easy customization
+- Modern UI/UX
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+
+- Node.js (v14 or above)
+- npm or yarn
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/brand-page.git
+cd brand-page
+npm install
+```
+
+### Running the App
+
+```bash
+npm start
+```
+
+The app will be available at `http://localhost:3000`.
+
+## Project Structure
+
+```
+/src
+    /components
+    /assets
+    App.js
+    index.js
+```
+
+## Customization
+
+- Update branding assets in `/src/assets`
+- Modify components in `/src/components`
+
+## License
+
+This project is licensed under the MIT License.
